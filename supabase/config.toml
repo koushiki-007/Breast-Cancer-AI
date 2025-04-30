@@ -1,0 +1,5 @@
+
+project_id = "mkjznlobbilwfpavgbar"
+
+[functions.predict]
+verify_jwt = false
